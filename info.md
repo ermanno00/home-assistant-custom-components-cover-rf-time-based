@@ -12,6 +12,7 @@ With this component you can add a time-based cover. You have to set triggering s
 - Can be used on top of any existing cover integration, or directly with ESPHome or Tasmota firmwares running on various ESP-based modules.
 
 ## Component authors & contributors
+    "@ermanno00",
     "@davidramosweb",
     "@nagyrobi",
     "@Alfiegerner",
