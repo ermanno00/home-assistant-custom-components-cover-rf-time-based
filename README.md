@@ -1,4 +1,5 @@
 **NOTE**
+Forked on nagyrobi latest main after archiving repository.
 
 Since I moved the time-based functionality to an [ESPHome](https://esphome.io/components/cover/time_based.html) node, which works much better as it's being done in hardware, I'm archiving this repository and stop maintaining it. 
 
